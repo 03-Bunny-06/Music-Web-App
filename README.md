@@ -1,4 +1,4 @@
-Music Album Player
+**Music Album Player**
 
 Project Description:
 
