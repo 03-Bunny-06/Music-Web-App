@@ -40,6 +40,7 @@ Usage:
 3. Place the song name as the text content of the sibling element adjacent to the music-album element.
 4. Ensure all .mp3 files are available in the specified location.
 
+
 ![image](https://github.com/user-attachments/assets/64ad167e-adac-41ba-b15d-9bc36b5a6e43)
 
-
+![image](https://github.com/user-attachments/assets/994d6289-5ac6-4fe2-9625-939887041585)
