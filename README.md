@@ -36,4 +36,3 @@ This project is a simple web-based music album audio player built using JavaScri
 
 ![image](https://github.com/user-attachments/assets/25d36ca5-1fa4-4e39-b135-40aec3b9b1cf)
 
-![image](https://github.com/user-attachments/assets/95c4f43c-5983-4c86-ac9f-542994cecfb8)
